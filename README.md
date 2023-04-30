@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marto</h1>
 <h3 align="center">I grow as a passionate full stack developer focused on the front-end.</h3>
-<img src="https://postimg.cc/K3LDy9Mj" alt="git" width="40" height="40"/>
+<img src="https://postimg.cc/K3LDy9Mj" alt="git" width="500" height="300"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martin-marchessi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-marchessi/" height="30" width="40" /></a>
