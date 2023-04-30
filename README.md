@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marto</h1>
 <h3 align="center">I grow as a passionate full stack developer focused on the front-end.</h3>
-![presentacion](https://github.com/Niitram/Pokedex/blob/main/client/src/assets/images/gothubmartocode.png?raw=true)
+![presentacion]([https://github.com/Niitram/Pokedex/blob/main/client/src/assets/images/gothubmartocode.png?raw=true](https://live.staticflickr.com/65535/52859745485_4423ff3c79_b.jpg))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martin-marchessi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-marchessi/" height="30" width="40" /></a>
