@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marto</h1>
 <h3 align="center">I grow as a passionate full stack developer focused on the front-end.</h3>
-[![gothubmartocode.png](https://i.postimg.cc/gjtS8QcV/gothubmartocode.png)](https://postimg.cc/K3LDy9Mj)
+<p align="left">
+I love programming because it allows me to face challenges in my own way, and I'm fascinated by the fact that each person can come up with so many different solutions to the same problem. I enjoy programming so much that I can spend hours and hours without realizing it, just like when you lose track of time while playing. In the moments when I'm not programming or studying, I enjoy meditation, playing video games, and playing futball.
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/martin-marchessi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tu_usuario" height="30" width="40" /></a>
-
+Mail: niitram.mm@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
